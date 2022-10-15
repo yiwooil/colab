@@ -1,2 +1,2 @@
-# colab
-computer vision
+# colab-cv
+computer vision google colab용
